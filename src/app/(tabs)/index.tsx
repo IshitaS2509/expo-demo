@@ -67,7 +67,7 @@ export default function HomeScreen() {
 
       {name !== '' && (
         <Text style={styles.result}>
-          Hello, {name}! 👋
+          Hello, {name}! 
         </Text>
       )}
 
